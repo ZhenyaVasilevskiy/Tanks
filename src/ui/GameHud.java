@@ -10,7 +10,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 
 /**
- * in game info display
+ * интерфейс
  */
 public class GameHud {
 	private Text timeHud;
