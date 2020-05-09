@@ -13,10 +13,7 @@ import stable.Stone;
 import stable.Water;
 
 /**
- * @author billyu
- * game map generator
- * reads data from MapData
- * assumes each map contains info of brick, stone, water, grass, player pos, enemy pos
+ * генератор карты
  */
 public class GameMap {
 	private static final double SPAWN_POS = 0.0025;
